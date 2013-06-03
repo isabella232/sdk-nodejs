@@ -1,5 +1,5 @@
 {
-    "name" : "mercadopago",
+    "name" : "mercadopago-ideame",
     "version" : "0.1.6",
     "author" : "Horacio Casatti <horacio.casatti@mercadolibre.com>",
     "description" : "Mercadopago SDK module for Payments integration",
